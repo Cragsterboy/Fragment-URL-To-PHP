@@ -1,4 +1,4 @@
-# Fragment-URL-To-PHP
+# Fragment URL To PHP
 
 An easy way to be able to pass fragment URLs into PHP.
 
