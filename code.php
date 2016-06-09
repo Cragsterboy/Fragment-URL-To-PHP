@@ -1,9 +1,9 @@
 <?php
 // Author: Craig Gamblen
-// www.craggamblen.co.uk
+// www.CragGamblen.co.uk
 // 09/06/2016
 
-	$url = $_SERVER['REQUEST_URI']; //grab page url
+$url = $_SERVER['REQUEST_URI']; //grab page url
 ?>
 
 <script>
